@@ -16,7 +16,7 @@
 
 (defgroup balanced-windows nil
   "Keep windows balanced."
-  :group 'convenience
+  :group 'windows
   :prefix "balanced-windows-")
 
 (defcustom balanced-windows-functions
