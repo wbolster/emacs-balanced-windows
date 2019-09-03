@@ -13,6 +13,7 @@
 ;; Automatically keep windows balanced.
 
 ;;; Code:
+
 (defvar evil-auto-balance-windows)
 
 (defgroup balanced-windows nil
