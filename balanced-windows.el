@@ -4,7 +4,7 @@
 ;; Keywords: convenience
 ;; URL: https://github.com/wbolster/emacs-balanced-windows
 ;; Package-Requires: ((emacs "25"))
-;; Version: 1.0.0
+;; Version: 1.0.1
 
 ;; Copyright 2019 wouter bolsterlee. Licensed under the 3-Clause BSD License.
 
